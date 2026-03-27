@@ -10,6 +10,11 @@ The repository contains the reference implementation of HTS, the proposed QIHTS 
 
 ---
 
+## Publication
+
+DOI: https://doi.org/10.1109/GCON65540.2025.11173289
+Published in: 2025 IEEE Guwahati Subsection Conference (GCON) | https://ieeexplore.ieee.org/xpl/conhome/11173281/proceeding
+
 ## Research Objective
 
 The main objectives of this project are:
