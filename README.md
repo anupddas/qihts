@@ -13,6 +13,7 @@ The repository contains the reference implementation of HTS, the proposed QIHTS 
 ## Publication
 
 DOI: https://doi.org/10.1109/GCON65540.2025.11173289
+
 Published in: 2025 IEEE Guwahati Subsection Conference (GCON) | https://ieeexplore.ieee.org/xpl/conhome/11173281/proceeding
 
 ## Research Objective
@@ -138,6 +139,7 @@ This project contributes:
 
 Anup Das  
 B.Tech Computer Science Engineering
+
 
 Dr. Ningrinla Marchang
 Professor, Dept. Computer Science & Engineering, North Eastern Regional Institute of Science and Technology
